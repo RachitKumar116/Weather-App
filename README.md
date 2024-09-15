@@ -1,6 +1,6 @@
 # Weather-App
 Overview
-This Weather App provides real-time weather details. It allows users to search for current weather conditions in any city around the world.Users can view temperature, real feel, humidity, cloudiness, wind speed, and sunrise/sunset times, using the OpenWeath API.<br>
+This Weather App provides real-time weather details. It allows users to search for current weather conditions in any city around the world.Users can view temperature, real feel, humidity, cloudiness, wind speed, and sunrise/sunset times, using the OpenWeath API.
 
 ## Features
 Search weather by:
@@ -16,7 +16,7 @@ Wind speed
 Sunrise and sunset times
 Weather description
 Shows country flag based on the location
-Weather icon representing the current weather condition <br>
+Weather icon representing the current weather condition 
 
 ## Technologies Used:
 HTML
